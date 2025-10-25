@@ -1,5 +1,5 @@
 body{
-    background-image: url('/images/сольь.jpg');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfoDMrPp4xL0tHZU3C1TzVJm2C5y7fXtxQw&s');
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -13,4 +13,5 @@ img{
 h1{
     display: flex;
     justify-content: center;
+
 }
